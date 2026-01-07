@@ -1,13 +1,26 @@
 # GDIM32 In Class Activities
 ## Instructions
-Put each week's activities under new headers like the one shown above. Headers are created with the # symbol. More # symbols = smaller header.
 
 
-Hit enter TWICE to create a new line.
+## Actvity 1
+- one piece of advice that I would give is studying while also turning in work ahead of time. by studying youll be 
+- able to reflect on what is going on in the class and you wont have to worry with struggling with the work
+
+## Actvity 2 
+1. answer = 10 
+2. answer = 2 
+3. update is a method is called by unity every frame and then be able to print the message of hello world 
+4. Monobehaviour
+5. using the print message to have a value of 10 but later in the debug log you want it to appear in the console so its there with x
+6. 10 is argument, “x = ” + x is connection between string and variable
+7. you cant move the transform concept you can only move the specfic object, your trying to call a class name transform. use _playerTranform
+8. it should be changed to player transform
+
+## Actvity 3 
+- The player, The seed, The UI, The floor
+- The cat is able to walk freely in the 2D plane (utilizing WASD - off grid of the screen.) Has the ability to plant down a maximum of 5 flowers. 
+- Whenever the seed is planted by the player, the UI showing the amount of seed planted and the amount that the player possesses changes. When a seed is planted, a seed object is drawn on the screen, with a higher layer order than the player and the floor. 
 
 
-- Create bullet points by writing dashes.
-- Here's another bullet point entry.
 
 
-Remove all placeholder text in order to get full credit for README file formatting.
