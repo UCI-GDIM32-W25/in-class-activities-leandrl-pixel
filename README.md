@@ -20,6 +20,8 @@
 - The player, The seed, The UI, The floor
 - The cat is able to walk freely in the 2D plane (utilizing WASD - off grid of the screen.) Has the ability to plant down a maximum of 5 flowers. 
 - Whenever the seed is planted by the player, the UI showing the amount of seed planted and the amount that the player possesses changes. When a seed is planted, a seed object is drawn on the screen, with a higher layer order than the player and the floor. 
+- Google link: https://docs.google.com/document/d/1xLpjOiC1mLK6nAbB_YaibtbYXvQONX3D-RQwwT5zzg4/edit?usp=sharing 
+
 
 
 
