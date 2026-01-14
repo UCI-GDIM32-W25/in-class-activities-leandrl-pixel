@@ -28,8 +28,8 @@
 ![1000008376](https://github.com/user-attachments/assets/5060e3bc-232d-49ad-bbeb-58328363ba13)
 
 ## Actvity 2 
-[MG2 Progress](https://github.com/UCI-GDIM32-W25/mg2-oop-review-leandrl-pixel/compare/d127034ef0f30e721b561574d381ccf27bbf60cc...b413a8071660d59444594f5defe45115f0d2dcb4)
+[MG2 Progress](https://github.com/UCI-GDIM32-W25/mg2-oop-review-leandrl-pixel/commit/b413a8071660d59444594f5defe45115f0d2dcb4)
 
-- I added things into the scene for this project, added the sprites, scripts, and some basic movement
+- I added things into the scene for this project, added the sprites, scripts, and some basic movement, added a prefab for the coin. 
 
 
