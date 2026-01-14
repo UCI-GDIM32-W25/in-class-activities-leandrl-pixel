@@ -12,7 +12,7 @@
 3. update is a method is called by unity every frame and then be able to print the message of hello world 
 4. Monobehaviour
 5. using the print message to have a value of 10 but later in the debug log you want it to appear in the console so its there with x
-6. 10 is argument, ìx = î + x is connection between string and variable
+6. 10 is argument, ‚Äúx = ‚Äù + x is connection between string and variable
 7. you cant move the transform concept you can only move the specfic object, your trying to call a class name transform. use _playerTranform
 8. it should be changed to player transform
 
@@ -25,9 +25,7 @@
 ## Week 2 
 
 ## Activity 1
-
-file:///C:/Users/brami/Downloads/1000008376.jpg
-
+![1000008376](https://github.com/user-attachments/assets/5060e3bc-232d-49ad-bbeb-58328363ba13)
 
 
 
