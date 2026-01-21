@@ -32,4 +32,11 @@
 
 - I added things into the scene for this project, added the sprites, scripts, and some basic movement, added a prefab for the coin. 
 
+## Week 3
+
+## Activity 0-2
+- Buddy name Weida Chen, and Lillian Su
+
+## Activity 3 
+
 
