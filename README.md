@@ -38,6 +38,7 @@
 - Buddy name Weida Chen, and Lillian Su
 
 ## Activity 3 
-![1000008491](https://github.com/user-attachments/assets/895eb9a1-f6ab-4218-9cb7-45d4348d9616)
+
+![1000008494](https://github.com/user-attachments/assets/6c0643f5-b57c-4802-af6c-57b102d693d3)
 
 
