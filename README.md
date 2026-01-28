@@ -49,4 +49,7 @@
 ### Activity 2
 - [MG 4 Progress](https://github.com/user-attachments/assets/e336de00-7033-43c6-b9d2-31f730d0f22c)
 
+### Actvity 3 
+- [MG 5 Progress](https://github.com/leandrl-pixel/HW4/commit/3e41013f6dc67c99a49b7e092092c70974e72589)
+
 
