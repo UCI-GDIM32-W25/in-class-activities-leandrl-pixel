@@ -1,5 +1,5 @@
 # GDIM32 In Class Activities
-## Instructions
+
 
 
 ## Actvity 1
