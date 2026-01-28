@@ -46,5 +46,7 @@
 ### Activity 1 
 - Buddy name Weida Chen
 - When you have multiple the last object in the hierarchy will have the locator component the others will be automatically destroyed. 
+### Activity 2
+- [MG 4 Progress](https://github.com/user-attachments/assets/e336de00-7033-43c6-b9d2-31f730d0f22c)
 
 
