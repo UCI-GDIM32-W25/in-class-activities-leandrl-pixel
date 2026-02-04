@@ -1,7 +1,8 @@
 using System.Collections.Generic;
+using JetBrains.Annotations;
 using UnityEngine;
 
-/*
+
 
 public class W5Activity1 : MonoBehaviour
 {
@@ -18,8 +19,12 @@ public class W5Activity1 : MonoBehaviour
 		foreach(Item item in inventory) {
 			item.Use();
 		}
+
 	}
 }
+
+
+
 
 // Willow is building a game and needs your help completing this code.
 //
@@ -50,49 +55,64 @@ public abstract class Item {
 	public abstract void Use();
 }
 
-public class Axe : Item, IBreakable {
+public class Axe : Item, IBreakable
+{
 	private float _durability = 5.0f;
-	
+	public void Break()
+	{
+		Debug.Log("axe is broken!");
+	}
 	public void Damage (float damage) {
 		_durability -= damage;
 		Debug.Log("axe now has " + _durability + " durability remaining");
 		
 		if(_durability <= 0) {
 			Break();
+			
+
+			// make a private void break to intorduce the method or maybe add ibreakable into this? I think - leo note 
+		
 		}
+		
+		
 	}
 	
+
 	public override void Use () {
 		Debug.Log("attacking with axe");
 		Damage(1.0f);
 	}
+	
+
+		
 }
 
 public class ElvenSword : Item {
-	public void Use () {
+	public void override use () {
 		Debug.Log("attacking with Elven sword");
 	}
 }
 
 public class Torch : Item, IBreakable {
-	
+	// add maybe a private string into durability? - leo note 
+	private float _durability = 1.0f; 
 	public void Damage (float damage) {
 		_durability -= damage;
 		Debug.Log("torch now has " + _durability + " durability remaining");
 		
 		if(_durability <= 0) {
 			Break();
+			// replace with BreakItem? - leo note this probably not right , or make a public static void new method with break
 		}
 	}
 	
-	public void BreakItem () {
+	public void Break () {
 		Debug.Log("torch is broken!");
 	}
 	
-	protected override void Use () {
+	public override void Use () {
 		Debug.Log("lighting area with torch");
 		Damage(1.0f);
 	}
 }
 
-*/

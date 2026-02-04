@@ -4,11 +4,19 @@ using UnityEngine;
 
 public class Locator : MonoBehaviour
 {
+    public static Locator instance { get; private set; }
+    public W4Pigeon player { get; private set; } 
+
     // Start is called before the first frame update
-    void Start()
+    public void Awake()
     {
-        
+        // 
     }
+
+
+
+
+
 
     // Update is called once per frame
     void Update()

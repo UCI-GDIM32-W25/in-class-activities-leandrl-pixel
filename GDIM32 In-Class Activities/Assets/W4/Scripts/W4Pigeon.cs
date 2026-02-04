@@ -11,7 +11,16 @@ public class W4Pigeon : MonoBehaviour
     [SerializeField] private W4UI _ui;
     [SerializeField] private W4VFX _vfx;
 
+
+
+
     // HERE, add an event to tell other objects that the pigeon coo'd!
+    public delegate void CooDelegate(); 
+    public event CooDelegate(); 
+    public void Start()
+    {
+     //  Locator.instance
+    }
 
     // don't change the code in this method!
     void Update()
@@ -30,7 +39,10 @@ public class W4Pigeon : MonoBehaviour
         _audio.Play();
         _animator.SetTrigger("wiggle");
 
+
         // HERE, you'll want to REMOVE the code to "tell seagulls", "tell UI", and "tell VFX"
+       // PigeonCoo
+
         // instead, fire your coo event!
         
         // tell seagulls
@@ -38,6 +50,8 @@ public class W4Pigeon : MonoBehaviour
         {
             seagull.HandlePigeonCoo();
         }
+
+        
 
         // tell UI
         _ui.HandlePigeonCoo();

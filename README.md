@@ -57,3 +57,22 @@
 - [MG 5 Progress](https://github.com/leandrl-pixel/HW4/commit/3e41013f6dc67c99a49b7e092092c70974e72589)
 - I worked on setting up my unity, adding sprites, ensuring that each sprite was split correctly too, while also adding some things into the scene like birds as well. 
 
+## Week 5 
+
+### Activity 1
+- What I think about the design of these interfaces is that it is overall fine but I woyuld have a change in the abstract Item
+
+### Actvity 2 
+- The model in the w5demo2 and the scritpable object are Itemw5Demo2 and the other is the EnemyStats that are used in the enemy, play script as well
+- represent the internal stat of the enemy, items in the player inventory space, the controllers in the demo scipt detecting input and moves player based on the input rescieved. 
+
+
+### Activity 3 
+Scnario 1: Multi view component with the C# events
+Finite state Machine for animation 
+Scnario 2: scriptable objects for things like weapons and ablity data. Iherentence for weapon that has an abstract of a class, the MVC with C# events for conroling the event of guns being dispersed in contact with an enemy. 
+Finite state Machine for animation the movement like deciding to talk or even run 
+scnario 3: scritable objects for things that exist in the space of the world maybe a leaf etc. Multi view components are wher eplayer gets the input and movement view for the inventtory and blueprint for lots of info of the game. ex amount of plants in inventory. 
+### Activity 4 
+- Attendance Weida chen, Lillian su, Leandro Lopez 
+ - [Proprosal Draft Document](https://docs.google.com/document/d/1xISKeTxHcyg1ukxzz-i_5d-Cz9bvp_8rIGGyn6IEIXQ/edit?usp=sharing)
