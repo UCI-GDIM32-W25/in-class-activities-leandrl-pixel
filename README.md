@@ -80,10 +80,10 @@ scnario 3: scritable objects for things that exist in the space of the world may
 ## Week 6 
 
 ### Activity 1 
-- Notes: circle collider is the most efficent than using a polygon collider, a custom collider on. The fruit with the plain old circle colldier when we run them its going to go a lot better
+- Notes Bulletion: circle collider is the most efficent than using a polygon collider, a custom collider on. The fruit with the plain old circle colldier when we run them its going to go a lot better
 - try not to use too many rigidbodies 
 - To check performance on how each colliders work with your computer and performance use the window analysis and check profiler
-- Gizmos can helpdebug easier and without debugging
+- Gizmos can help debug easier and without debugging in your code, for example when used in our game we can use it to visualize rigidbodies or what directionality or phyiscs
 
 ### Activity 2 
 - Attendance: Lillian Su, Leandro
