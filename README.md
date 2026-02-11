@@ -76,3 +76,15 @@ scnario 3: scritable objects for things that exist in the space of the world may
 ### Activity 4 
 - Attendance Weida chen, Lillian su, Leandro Lopez 
  - [Proprosal Draft Document](https://docs.google.com/document/d/1xISKeTxHcyg1ukxzz-i_5d-Cz9bvp_8rIGGyn6IEIXQ/edit?usp=sharing)
+
+## Week 6 
+
+### Activity 1 
+- Notes: circle collider is the most efficent than using a polygon collider, a custom collider on. The fruit with the plain old circle colldier when we run them its going to go a lot better
+- try not to use too many rigidbodies 
+- To check performance on how each colliders work with your computer and performance use the window analysis and check profiler
+- Gizmos can helpdebug easier and without debugging
+
+### Activity 2 
+- Attendance: Lillian Su, Leandro
+- [Final Proposal Document](https://docs.google.com/document/d/1xISKeTxHcyg1ukxzz-i_5d-Cz9bvp_8rIGGyn6IEIXQ/edit?usp=sharing)
