@@ -91,5 +91,7 @@ scnario 3: scritable objects for things that exist in the space of the world may
 
 ## Week 7 
 - Notes spherecast is very useful for when a NPC collides with an object and ensure that it does not hit it again and goes into a different direction. It helps visualize where it is going as well. Raycast is a casting a ray an arrow into the scene allows to know where in the scene your npc state or radius is in your player
-- Attendance: Weida Chen, Lillian Su, Leandro Lopez 
+- Attendance: Weida Chen, Lillian Su, Leandro Lopez
+- ![1000009385](https://github.com/user-attachments/assets/ae619143-9469-44d4-a171-aa4e195bb920)
+
 
