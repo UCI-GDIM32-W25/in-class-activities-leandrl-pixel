@@ -88,7 +88,7 @@ public class Axe : Item, IBreakable
 }
 
 public class ElvenSword : Item {
-	public void override use () {
+	public  override void Use () {
 		Debug.Log("attacking with Elven sword");
 	}
 }

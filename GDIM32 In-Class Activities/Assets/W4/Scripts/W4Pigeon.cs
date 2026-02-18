@@ -16,7 +16,7 @@ public class W4Pigeon : MonoBehaviour
 
     // HERE, add an event to tell other objects that the pigeon coo'd!
     public delegate void CooDelegate(); 
-    public event CooDelegate(); 
+   // public event CooDelegate OnCoo(); 
     public void Start()
     {
      //  Locator.instance
