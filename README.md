@@ -104,7 +104,38 @@ scnario 3: scritable objects for things that exist in the space of the world may
 
 ### Activity 5 
 - What I added was map assests for the game that will be used to make a base for our medevial fantasy game
+- [Final Group Progress Link](https://github.com/Weida758/GDIM32-Final/commit/3969f7c2e48b2b3f51a93984ccc0fd0aaeadd5ea)
 
+## Week 8 
 
+### Activity 1 
+- Notes bulletion:
+- The way we can add these effects in these scene for post processing is that we ge thte post processing packaging in unity registry and then hit instell. 
+- Then what we need to do is make an object and add a new layer to this and add the new volume component to it and unity has and unity has a small libary effects to add
+- We need to make sure that the effect is wokring with our rendering pipeline and make sure when we add a processing effect and run in the itch game doesnt make it laggy 
+- its between running your game and in a webpage and unity it has some effects that will be compatible with the web, in other words test it immedietely. 
 
+### Activity 2
+- Attendance: Weida Chen, Leandro Lopez, Lillian Su 
+
+### Activity 3
+- Buddy playtester is ate the table number 
+- Playtesting Captain Weida Chen
+- Captain Playtest notes
+- Positives:
+The inventory system is great and the playtesters liked the UI. 
+The playtesters thinks the scene looks good
+The character movements is good
+- Negatives:
+There are things wrong with the rendering distance, things only get loaded when the player is really close to them. 
+Sometimes the camera can be annoying when there are obstacles cause the camera to zoom to the player
+The item’s collider is too small
+Need indicators that indicate when the items can be picked up with what items.
+
+### Activity 4 
+- The task that I did today was duplicate the scene and refine and level design the map. Adding towns and future enemy locations. My task is to do the map design and level
+
+### Activity 5 
+- I made some gameobjects where there are towns and I manipulated the ground to give it texture for the player. Made a basic outline where the player will be and enemies and created an advdentueurs guild building where an NPC will be. 
+-[Final Group Progress Link Commit](https://github.com/Weida758/GDIM32-Final/compare/d73260387709388d4ba4fe7be2c6f4ed80de6bcc...b6c80984d120272a011615976bc6f69b54b61a38)
 
