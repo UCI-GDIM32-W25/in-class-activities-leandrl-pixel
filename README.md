@@ -137,5 +137,6 @@ Need indicators that indicate when the items can be picked up with what items.
 
 ### Activity 5 
 - I made some gameobjects where there are towns and I manipulated the ground to give it texture for the player. Made a basic outline where the player will be and enemies and created an advdentueurs guild building where an NPC will be. 
--[Final Group Progress Link Commit](https://github.com/Weida758/GDIM32-Final/compare/d73260387709388d4ba4fe7be2c6f4ed80de6bcc...b6c80984d120272a011615976bc6f69b54b61a38)
+
+- [Final Group Progress Link Commit](https://github.com/Weida758/GDIM32-Final/compare/d73260387709388d4ba4fe7be2c6f4ed80de6bcc...b6c80984d120272a011615976bc6f69b54b61a38)
 
