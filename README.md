@@ -140,3 +140,22 @@ Need indicators that indicate when the items can be picked up with what items.
 
 - [Final Group Progress Link Commit](https://github.com/Weida758/GDIM32-Final/compare/d73260387709388d4ba4fe7be2c6f4ed80de6bcc...b6c80984d120272a011615976bc6f69b54b61a38)
 
+## Week 9 
+
+### Activity 1 
+- Notes: If you want to code anyhring in games that are larger the archietechture needs to scale well. A state machine is a good example your character needs to have a state machine if you have a million if statement trying to run your code and all the patters will help you write that will scale better 
+
+### Activity 2 
+- Group members: Leandro Lopez, Wedia Chen, Lillian Su
+
+### Activity 3 
+- Playtest captain: Weida Chen,
+- Notes: The controls to consume items in the inventory should be right click instead of the T button
+There should be instructions in the actual game that tells the player about controls rather than just the itch page description
+Maybe add some fog to the scene to make it look more scary ish.
+
+### Activty 4 
+- How far im in, in my project is that I have plenty of decorative details that are close to final product if I had to say it follows a lot of my project scope. Although it still needs refinements like adding more creative and decorative choice and making a proper size for the map on where the enemies will be. 
+### Activity 5 
+- [Final Group Progress commit Link](https://github.com/Weida758/GDIM32-Final/compare/22fedb4e04bdecb2492733f09bba7a893a0c1568...4c95fc4341bee1a77635db764d2e2c90b50ab18e)
+- I worked on adding more decorative gameobjects and found some assests and imported them in the scene for the duplicate scene. 
