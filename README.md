@@ -146,7 +146,7 @@ Need indicators that indicate when the items can be picked up with what items.
 - Notes: If you want to code anyhring in games that are larger the archietechture needs to scale well. A state machine is a good example your character needs to have a state machine if you have a million if statement trying to run your code and all the patters will help you write that will scale better 
 
 ### Activity 2 
-- Group members: Leandro Lopez, Wedia Chen, Lillian Su
+- Attendance: Leandro Lopez, Wedia Chen, Lillian Su
 
 ### Activity 3 
 - Playtest captain: Weida Chen,
