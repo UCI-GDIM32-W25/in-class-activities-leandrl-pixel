@@ -159,3 +159,8 @@ Maybe add some fog to the scene to make it look more scary ish.
 ### Activity 5 
 - [Final Group Progress commit Link](https://github.com/Weida758/GDIM32-Final/compare/22fedb4e04bdecb2492733f09bba7a893a0c1568...4c95fc4341bee1a77635db764d2e2c90b50ab18e)
 - I worked on adding more decorative gameobjects and found some assests and imported them in the scene for the duplicate scene. 
+
+## Week 10 
+
+### Actvity 1 
+- Weida Chen, Lillian Su, Leandro Lopez Ramirez
