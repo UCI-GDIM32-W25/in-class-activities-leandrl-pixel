@@ -163,4 +163,12 @@ Maybe add some fog to the scene to make it look more scary ish.
 ## Week 10 
 
 ### Actvity 1 
-- Weida Chen, Lillian Su, Leandro Lopez Ramirez
+- Attendance: Weida Chen, Lillian Su, Leandro Lopez Ramirez
+
+### Activity 2
+- playtest captain Weida Chen, Playtest notes - the game needs the NPC, dialouge system, player interaction with the NPC 
+### Activtiy 3 
+- our project seems to be update to date the only thing needed is to add the enemies and the NPC we more dialouge options, essentially a dialouge system needs to be added. 
+### Activity 4 
+- [Final Group Progress Commit Link](https://github.com/Weida758/GDIM32-Final/commit/58ce0f13ebc15eebae3b07b266b9fc3c14727b49) 
+- I Worked on adding more to the map scene, added a bonfire effect that fits the lighting on the scene, added a fog effect around the map. Decorative materials were added to the scene around the map while adding a small decorative biome of a swap area. 
